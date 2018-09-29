@@ -1,7 +1,7 @@
 # IntroToWebDev
 TigerTalks 
 
-##Intro to Web Development
+## Intro to Web Development
 
 This presentation will use the software and files linked below. If you would like to follow along and code during the presentation you will need:
 
@@ -11,5 +11,5 @@ This presentation will use the software and files linked below. If you would lik
 *The zip file linked below.
   Once downloaded, unzip the file and open it using a text editor.
  
- (Brackets)[http://brackets.io/]
- (Zip File)[https://drive.google.com/file/d/0B6fAUOPo9WgTY1hLMnNiQzdwcjJCR3U5NjdQVHgxSHUzckQw/view?usp=sharing]
+ (Brackets) [http://brackets.io/]
+ (Zip File) [https://drive.google.com/file/d/0B6fAUOPo9WgTY1hLMnNiQzdwcjJCR3U5NjdQVHgxSHUzckQw/view?usp=sharing]
