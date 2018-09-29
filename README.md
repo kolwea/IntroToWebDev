@@ -12,4 +12,5 @@ This presentation will use the software and files linked below. If you would lik
   Once downloaded, unzip the file and open it using a text editor.
  
  [Brackets](http://brackets.io/)
+ 
  [Zip File](https://drive.google.com/file/d/0B6fAUOPo9WgTY1hLMnNiQzdwcjJCR3U5NjdQVHgxSHUzckQw/view?usp=sharing)
